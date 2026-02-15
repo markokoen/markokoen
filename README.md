@@ -1,6 +1,6 @@
 
 
-# Marko Koen — Senior Software Architect / Systems Builder
+# Marko Koen — Senior Software Architect / Systems Builder / Product engineer
 
 I turn chaos into calm.
 
